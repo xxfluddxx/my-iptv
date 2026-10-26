@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Box Launcher</string>
+    <!-- Shown top-left when the device has no name set (box.conf BOX_NAME sets one) -->
+    <string name="box_name">MyIPTV Box</string>
+    <string name="favorites">Favorites</string>
+    <string name="apps">Apps</string>
+    <string name="no_favorites_hint">Hold OK on any app below to add it to your favorites</string>
+    <string name="add_favorite">Add to favorites</string>
+    <string name="remove_favorite">Remove from favorites</string>
+    <string name="move_left">Move left</string>
+    <string name="move_right">Move right</string>
+    <string name="app_info">App info</string>
+    <string name="cancel">Cancel</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="settings">Settings</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Package names put in Favorites on first start, in this order (skipped if not installed).
+         Edit this to pre-load favorites for your firmware. -->
+    <string-array name="default_favorites" translatable="false">
+        <item>com.google.android.youtube.tv</item>
+        <item>com.google.android.youtube</item>
+        <item>com.android.vending</item>
+        <item>com.android.chrome</item>
+    </string-array>
+</resources>
