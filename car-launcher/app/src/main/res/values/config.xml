@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Package names put in the dock on first start, in this order (skipped if not installed).
+         Edit this to pre-load your dock. -->
+    <string-array name="default_dock" translatable="false">
+        <item>com.google.android.apps.maps</item>
+        <item>com.waze</item>
+        <item>com.spotify.music</item>
+        <item>com.google.android.apps.youtube.music</item>
+        <item>com.google.android.youtube</item>
+        <item>com.android.chrome</item>
+    </string-array>
+</resources>

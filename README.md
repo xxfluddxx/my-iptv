@@ -11,6 +11,9 @@ You get a bootable `.iso` with:
 
 Everything is set in one file: **`box.conf`**.
 
+Also in this repo: **[Car Launcher](car-launcher/)**, a home screen app for
+Android car head units like the ATOTO S8.
+
 ## How it works
 
 ```
