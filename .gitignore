@@ -5,8 +5,3 @@ launcher/build/
 launcher/app/build/
 launcher/local.properties
 launcher/.idea/
-car-launcher/.gradle/
-car-launcher/build/
-car-launcher/app/build/
-car-launcher/local.properties
-car-launcher/.idea/
